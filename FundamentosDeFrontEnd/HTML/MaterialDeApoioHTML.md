@@ -1,24 +1,3 @@
-# Objetivos
-
-1. História
-2. Semântica
-3. Principais elementos HTML
-
-# Requisitos Básicos
-
-- Editor de texto (Visual Studio Code)
-- Navegador de internet (Chrome)
-
-## Definição
-
-###### O HTML foi criado em 1991 por Tim Berners-Lee pela necessidade de compartilhar alguns documentos com seus colegas:
-
-- HTML 1 - 1991
-- HTML 2 - 1995
-- HTML 3 - 1997
-- HTML 4 - 1997
-- HTML 5 - 2014
-
 # HTML5
 ## Definição e estrutura básica
 - Em 1991 Tim Berners-Lee criou essa linguagem de marcação para melhorar a comunicação entre ele e seus colegas de trabalho no CERN, desde então já surgiram 5 versões e o HTML se tornou a base da web.
